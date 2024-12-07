@@ -6,13 +6,13 @@ This repository is a demonstration of Optimal Control using the [Sheffield Batte
 
 The ```main_BatteryCharging.m``` is the main file inside of the ```SinglePhase``` folder, which can be run for individual batteries of the user's choice. The battery database, at the time of writing, provides data for 40 batteries which can selected by setting ```batt_idx``` in ```BatteryCharging(BattData, batt_idx)``` function call in the main file. An example is shown in the figure below.
 
-![image](figs\StatePlots_Using_BatchFit.png)
+![image](https://github.com/acseCAPSlab/SheffieldBatteryLibrary_Control/blob/main/figs/StatePlots_Using_BatchFit.png)
 
 ### Running a batch operation 
 
 Addition file ```BatchRunBattOpt.m``` is provided to run the optimal control problem to a batch of batteries which can be chosen by editing the ```indexlist``` variable iniside of the file. An example result of the run is shown below.
 
-![image](figs\MultipleBatteryBatchRun.png)
+![image](https://github.com/acseCAPSlab/SheffieldBatteryLibrary_Control/blob/main/figs/MultipleBatteryBatchRun.png)
 
 
 ## Dependecies
