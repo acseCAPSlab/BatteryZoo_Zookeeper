@@ -1,6 +1,6 @@
-# Li-Batt - Optimal Control 
+# BatteryZoo - Zookeeper (Optimal Control) 
 
-This repository is a demonstration of Optimal Control using the [LiBatt](https://github.com/acseCAPSlab/Li-Batt). Here, a fast charging optimal control problem \[needs citation\] is implemented in [ICLOCS2](http://www.ee.ic.ac.uk/ICLOCS/) using the [OPTI Toolbox's](https://github.com/jonathancurrie/OPTI) IPOPT solver \[needs citation\].
+This repository is a demonstration of Optimal Control using the [BatteryZoo](https://github.com/acseCAPSlab/BatteryZoo). Here, a fast charging optimal control problem \[needs citation\] is implemented in [ICLOCS2](http://www.ee.ic.ac.uk/ICLOCS/) using the [OPTI Toolbox's](https://github.com/jonathancurrie/OPTI) IPOPT solver \[needs citation\].
 
 ## Running the problem
 
@@ -17,5 +17,5 @@ Addition file ```BatchRunBattOpt.m``` is provided to run the optimal control pro
 
 ## Dependecies
 - [ICLOCS2](http://www.ee.ic.ac.uk/ICLOCS/)
-- [Sheffield Battery Library database](https://github.com/acseCAPSlab/SheffieldBatteryLibrary)
+- [BatteryZoo](https://github.com/acseCAPSlab/BatteryZoo)
 - [OPTI Toolbox](https://github.com/jonathancurrie/OPTI)
