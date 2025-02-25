@@ -1,6 +1,6 @@
-# Sheffield Battery Library - Control 
+# LiBatt - Control 
 
-This repository is a demonstration of Optimal Control using the [Sheffield Battery Library database](https://github.com/acseCAPSlab/SheffieldBatteryLibrary). Here, a fast charging optimal control problem \[needs citation\] is implemented in [ICLOCS2](http://www.ee.ic.ac.uk/ICLOCS/) using the [OPTI Toolbox's](https://github.com/jonathancurrie/OPTI) IPOPT solver \[needs citation\].
+This repository is a demonstration of Optimal Control using the [LiBatt](https://github.com/acseCAPSlab/Li-Batt). Here, a fast charging optimal control problem \[needs citation\] is implemented in [ICLOCS2](http://www.ee.ic.ac.uk/ICLOCS/) using the [OPTI Toolbox's](https://github.com/jonathancurrie/OPTI) IPOPT solver \[needs citation\].
 
 ## Running the problem
 
